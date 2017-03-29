@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC1200
+D Low-Power, High-Performance RF Transceiver
+K RF Tx Rx
+F http://www.ti.com/lit/ds/symlink/cc1200.pdf
+$ENDCMP
+#
+#End Doc Library

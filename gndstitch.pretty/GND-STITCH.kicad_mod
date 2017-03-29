@@ -1,0 +1,9 @@
+(module GND-STITCH (layer F.Cu) (tedit 58D99D21)
+  (fp_text reference REF** (at 0 0.381) (layer F.SilkS) hide
+    (effects (font (size 0.127 0.127) (thickness 0.0127)))
+  )
+  (fp_text value GND-STITCH (at 0 0) (layer F.Fab) hide
+    (effects (font (size 0.127 0.127) (thickness 0.00762)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.6096 0.6096) (drill 0.3048) (layers *.Cu))
+)
